@@ -8,7 +8,4 @@
    - Countplots for categoricals  
 4. Bivariate Analysis  
    - Pairplot (Seaborn)  
-   - Correlation heatmap  
-   - Survival‐rate plots by feature  
-5. Indentifying Anomalies & Patterns  
-6. Interactive Plots
+5. Indentifying Patterns  
